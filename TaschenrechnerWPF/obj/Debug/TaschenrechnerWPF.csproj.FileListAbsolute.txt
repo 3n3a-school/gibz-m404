@@ -1,0 +1,15 @@
+C:\Users\ENK\source\repos\TaschenrechnerWPF\bin\Debug\TaschenrechnerWPF.exe.config
+C:\Users\ENK\source\repos\TaschenrechnerWPF\bin\Debug\TaschenrechnerWPF.exe
+C:\Users\ENK\source\repos\TaschenrechnerWPF\bin\Debug\TaschenrechnerWPF.pdb
+C:\Users\ENK\source\repos\TaschenrechnerWPF\obj\Debug\TaschenrechnerWPF.csproj.AssemblyReference.cache
+C:\Users\ENK\source\repos\TaschenrechnerWPF\obj\Debug\MainWindow.g.cs
+C:\Users\ENK\source\repos\TaschenrechnerWPF\obj\Debug\App.g.cs
+C:\Users\ENK\source\repos\TaschenrechnerWPF\obj\Debug\TaschenrechnerWPF_MarkupCompile.cache
+C:\Users\ENK\source\repos\TaschenrechnerWPF\obj\Debug\TaschenrechnerWPF_MarkupCompile.lref
+C:\Users\ENK\source\repos\TaschenrechnerWPF\obj\Debug\MainWindow.baml
+C:\Users\ENK\source\repos\TaschenrechnerWPF\obj\Debug\TaschenrechnerWPF.g.resources
+C:\Users\ENK\source\repos\TaschenrechnerWPF\obj\Debug\TaschenrechnerWPF.Properties.Resources.resources
+C:\Users\ENK\source\repos\TaschenrechnerWPF\obj\Debug\TaschenrechnerWPF.csproj.GenerateResource.cache
+C:\Users\ENK\source\repos\TaschenrechnerWPF\obj\Debug\TaschenrechnerWPF.csproj.CoreCompileInputs.cache
+C:\Users\ENK\source\repos\TaschenrechnerWPF\obj\Debug\TaschenrechnerWPF.exe
+C:\Users\ENK\source\repos\TaschenrechnerWPF\obj\Debug\TaschenrechnerWPF.pdb
