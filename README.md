@@ -2,7 +2,10 @@
 
 ## Taschenrechner WPF
 
-![](.assets/screenshot-taschenrechner.png)
+<p align="center">
+<img src=".assets/screenshot-taschenrechner.png" height="200px" />
+</p>
+
 
 * [Tutorial PDF](TaschenrechnerWPF/Aufgabe Einfacher Taschenrechner.pdf)
 * [Sourcecode](TaschenrechnerWPF/)
