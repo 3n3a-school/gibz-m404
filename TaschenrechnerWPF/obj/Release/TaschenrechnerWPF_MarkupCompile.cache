@@ -4,11 +4,11 @@
 winexe
 C#
 .cs
-C:\Users\ENK\Documents\gibz-m404\TaschenrechnerWPF\obj\Debug\
+C:\Users\ENK\Documents\gibz-m404\TaschenrechnerWPF\obj\Release\
 TaschenrechnerWPF
 none
 false
-DEBUG;TRACE
+TRACE
 C:\Users\ENK\Documents\gibz-m404\TaschenrechnerWPF\App.xaml
 11151548125
 
