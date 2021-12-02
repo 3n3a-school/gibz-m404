@@ -1,0 +1,18 @@
+﻿<Window x:Class="Hangman.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Hangman"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+  <Grid>
+    <TextBlock HorizontalAlignment="Center" Margin="0,10,0,0" TextWrapping="Wrap" Text="Hangman" VerticalAlignment="Top" RenderTransformOrigin="-0.149,-0.185"/>
+    <Label x:Name="Wordbox" Content="Wordl" HorizontalAlignment="Left" Margin="23,38,0,0" VerticalAlignment="Top" Height="43" Width="145"/>
+    <Label Margin="10,354,690,53">Selected Char</Label>
+    <TextBox IsEnabled="False" x:Name="Selected_Char" Margin="100,354,661,53">d</TextBox>
+    <Slider x:Name="Letter_Slider" Margin="42,386,223,22" Minimum="65" Maximum="90" ValueChanged="Slider_ValueChanged"></Slider>
+    <Button x:Name="Guess_Btn" Margin="632,379,56,22" Click="Guess_Btn_Click">Guess</Button>
+    
+  </Grid>
+</Window>
