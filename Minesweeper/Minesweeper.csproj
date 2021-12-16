@@ -17,6 +17,7 @@
     <None Remove="Resources\Images\6.png" />
     <None Remove="Resources\Images\7.png" />
     <None Remove="Resources\Images\8.png" />
+    <None Remove="Resources\Images\9.png" />
     <None Remove="Resources\Images\button.png" />
     <None Remove="Resources\Images\flag.png" />
     <None Remove="Resources\Images\mine-2.png" />

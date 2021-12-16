@@ -20,7 +20,7 @@
         </DockPanel>
 
         <WrapPanel Name="FieldContainer" DockPanel.Dock="Bottom" Orientation="Vertical">
-            <!-- Insert buttons by code -->
+      <!-- Insert buttons by code -->
         </WrapPanel>
     </DockPanel>
 </Window>

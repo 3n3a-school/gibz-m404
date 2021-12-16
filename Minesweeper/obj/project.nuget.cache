@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4hHC0PvHLIayLLRbFiv2MrXqYzIetxnoiuZw6GYxLdvZgrzxQzIP9auRjuCZkYtqU4d5+9t9EvZnI28m5Fmk5A==",
+  "dgSpecHash": "YwOnx9fyk85j6Hn75fXS1978NtJ5HZ7kz/mUAGuF/HQKTuyvkaMJo4zLXpLf4Zfby7MkiRgVNOrGg3Q/3G9fpA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\enea\\source\\repos\\3n3a\\gibz-m404\\Minesweeper\\Minesweeper.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\enea\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512",
-    "C:\\Users\\enea\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\enea\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\enea\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\vmadmin\\source\\repos\\3n3a\\gibz-m404\\Minesweeper\\Minesweeper.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
