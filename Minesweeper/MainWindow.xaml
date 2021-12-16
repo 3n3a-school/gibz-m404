@@ -1,0 +1,26 @@
+﻿<Window x:Class="Minesweeper.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="Minesweeper"
+        WindowStyle="None"
+        WindowStartupLocation="CenterScreen"
+        ResizeMode="CanResize"
+        MouseLeftButtonDown="Window_MouseDown"
+        Height="250" Width="250">
+    <DockPanel Name="GameBoard">
+        <DockPanel Name="InfoSection" DockPanel.Dock="Top" Height="30" LastChildFill="True" Margin="0 10 0 10">
+            <Label Name="RemainingMineCount" DockPanel.Dock="Left" Width="50" VerticalAlignment="Center" HorizontalContentAlignment="Center" FontSize="22" FontWeight="Bold" FontFamily="Courier" Background="Black" Foreground="Red">99</Label>
+            <Label Name="ElapsedTimeDisplay" DockPanel.Dock="Right" Width="50" VerticalAlignment="Center" HorizontalContentAlignment="Center" FontSize="22" FontWeight="Bold" FontFamily="Courier" Background="Black" Foreground="Red">000</Label>
+            <Button Width="30">
+                <Image Name="SmileyButton" Source="Resources/Images/smiley-regular.png" Margin="2"></Image>
+            </Button>
+        </DockPanel>
+
+        <WrapPanel Name="FieldContainer" DockPanel.Dock="Bottom" Orientation="Vertical">
+            <!-- Insert buttons by code -->
+        </WrapPanel>
+    </DockPanel>
+</Window>
