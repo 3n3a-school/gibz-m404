@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0dc9f971-bf76-4111-aa6a-386c927f83ad": {
+      "ProjectGuid": "0dc9f971-bf76-4111-aa6a-386c927f83ad",
+      "DisplayName": "Memory",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

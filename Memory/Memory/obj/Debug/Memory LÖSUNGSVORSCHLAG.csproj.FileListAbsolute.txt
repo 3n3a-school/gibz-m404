@@ -1,0 +1,15 @@
+C:\Users\Peter Gisler\Desktop\M404\Programme\Memory LÖSUNGSVORSCHLAG\Memory LÖSUNGSVORSCHLAG\bin\Debug\Memory LÖSUNGSVORSCHLAG.exe.config
+C:\Users\Peter Gisler\Desktop\M404\Programme\Memory LÖSUNGSVORSCHLAG\Memory LÖSUNGSVORSCHLAG\bin\Debug\Memory LÖSUNGSVORSCHLAG.exe
+C:\Users\Peter Gisler\Desktop\M404\Programme\Memory LÖSUNGSVORSCHLAG\Memory LÖSUNGSVORSCHLAG\bin\Debug\Memory LÖSUNGSVORSCHLAG.pdb
+C:\Users\Peter Gisler\Desktop\M404\Programme\Memory LÖSUNGSVORSCHLAG\Memory LÖSUNGSVORSCHLAG\obj\Debug\Memory LÖSUNGSVORSCHLAG.csprojAssemblyReference.cache
+C:\Users\Peter Gisler\Desktop\M404\Programme\Memory LÖSUNGSVORSCHLAG\Memory LÖSUNGSVORSCHLAG\obj\Debug\MainWindow.g.cs
+C:\Users\Peter Gisler\Desktop\M404\Programme\Memory LÖSUNGSVORSCHLAG\Memory LÖSUNGSVORSCHLAG\obj\Debug\App.g.cs
+C:\Users\Peter Gisler\Desktop\M404\Programme\Memory LÖSUNGSVORSCHLAG\Memory LÖSUNGSVORSCHLAG\obj\Debug\Memory LÖSUNGSVORSCHLAG_MarkupCompile.cache
+C:\Users\Peter Gisler\Desktop\M404\Programme\Memory LÖSUNGSVORSCHLAG\Memory LÖSUNGSVORSCHLAG\obj\Debug\Memory LÖSUNGSVORSCHLAG_MarkupCompile.lref
+C:\Users\Peter Gisler\Desktop\M404\Programme\Memory LÖSUNGSVORSCHLAG\Memory LÖSUNGSVORSCHLAG\obj\Debug\MainWindow.baml
+C:\Users\Peter Gisler\Desktop\M404\Programme\Memory LÖSUNGSVORSCHLAG\Memory LÖSUNGSVORSCHLAG\obj\Debug\Memory LÖSUNGSVORSCHLAG.g.resources
+C:\Users\Peter Gisler\Desktop\M404\Programme\Memory LÖSUNGSVORSCHLAG\Memory LÖSUNGSVORSCHLAG\obj\Debug\Memory_LÖSUNGSVORSCHLAG.Properties.Resources.resources
+C:\Users\Peter Gisler\Desktop\M404\Programme\Memory LÖSUNGSVORSCHLAG\Memory LÖSUNGSVORSCHLAG\obj\Debug\Memory LÖSUNGSVORSCHLAG.csproj.GenerateResource.cache
+C:\Users\Peter Gisler\Desktop\M404\Programme\Memory LÖSUNGSVORSCHLAG\Memory LÖSUNGSVORSCHLAG\obj\Debug\Memory LÖSUNGSVORSCHLAG.csproj.CoreCompileInputs.cache
+C:\Users\Peter Gisler\Desktop\M404\Programme\Memory LÖSUNGSVORSCHLAG\Memory LÖSUNGSVORSCHLAG\obj\Debug\Memory LÖSUNGSVORSCHLAG.exe
+C:\Users\Peter Gisler\Desktop\M404\Programme\Memory LÖSUNGSVORSCHLAG\Memory LÖSUNGSVORSCHLAG\obj\Debug\Memory LÖSUNGSVORSCHLAG.pdb

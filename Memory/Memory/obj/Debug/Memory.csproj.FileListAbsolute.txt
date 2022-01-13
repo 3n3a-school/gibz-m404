@@ -1,0 +1,38 @@
+C:\Users\Peter Gisler\Desktop\M404\Programme\Memory\Memory LÖSUNGSVORSCHLAG\obj\Debug\Memory.csprojAssemblyReference.cache
+C:\Users\Peter Gisler\Desktop\M404\Programme\Memory\Memory LÖSUNGSVORSCHLAG\obj\Debug\MainWindow.g.cs
+C:\Users\Peter Gisler\Desktop\M404\Programme\Memory\Memory LÖSUNGSVORSCHLAG\obj\Debug\App.g.cs
+C:\Users\Peter Gisler\Desktop\M404\Programme\Memory\Memory LÖSUNGSVORSCHLAG\obj\Debug\Memory LÖSUNGSVORSCHLAG_MarkupCompile.cache
+C:\Users\Peter Gisler\Desktop\M404\Programme\Memory\Memory LÖSUNGSVORSCHLAG\obj\Debug\Memory LÖSUNGSVORSCHLAG_MarkupCompile.lref
+C:\Users\Peter Gisler\Desktop\M404\Programme\Memory\Memory LÖSUNGSVORSCHLAG\obj\Debug\Memory LÖSUNGSVORSCHLAG.exe
+C:\Users\Peter Gisler\Desktop\M404\Programme\Memory\Memory LÖSUNGSVORSCHLAG\obj\Debug\Memory LÖSUNGSVORSCHLAG.pdb
+C:\Users\Peter Gisler\Desktop\M404\Programme\Memory\Memory\bin\Debug\Memory.exe.config
+C:\Users\Peter Gisler\Desktop\M404\Programme\Memory\Memory\bin\Debug\Memory.exe
+C:\Users\Peter Gisler\Desktop\M404\Programme\Memory\Memory\bin\Debug\Memory.pdb
+C:\Users\Peter Gisler\Desktop\M404\Programme\Memory\Memory\obj\Debug\Memory.csprojAssemblyReference.cache
+C:\Users\Peter Gisler\Desktop\M404\Programme\Memory\Memory\obj\Debug\MainWindow.g.cs
+C:\Users\Peter Gisler\Desktop\M404\Programme\Memory\Memory\obj\Debug\App.g.cs
+C:\Users\Peter Gisler\Desktop\M404\Programme\Memory\Memory\obj\Debug\Memory_MarkupCompile.cache
+C:\Users\Peter Gisler\Desktop\M404\Programme\Memory\Memory\obj\Debug\Memory_MarkupCompile.lref
+C:\Users\Peter Gisler\Desktop\M404\Programme\Memory\Memory\obj\Debug\MainWindow.baml
+C:\Users\Peter Gisler\Desktop\M404\Programme\Memory\Memory\obj\Debug\Memory.g.resources
+C:\Users\Peter Gisler\Desktop\M404\Programme\Memory\Memory\obj\Debug\Memory.Properties.Resources.resources
+C:\Users\Peter Gisler\Desktop\M404\Programme\Memory\Memory\obj\Debug\Memory.csproj.GenerateResource.cache
+C:\Users\Peter Gisler\Desktop\M404\Programme\Memory\Memory\obj\Debug\Memory.csproj.CoreCompileInputs.cache
+C:\Users\Peter Gisler\Desktop\M404\Programme\Memory\Memory\obj\Debug\Memory.exe
+C:\Users\Peter Gisler\Desktop\M404\Programme\Memory\Memory\obj\Debug\Memory.pdb
+C:\Users\enea\source\repos\3n3a\gibz-m404\Memory\Memory\bin\Debug\Memory.exe.config
+C:\Users\enea\source\repos\3n3a\gibz-m404\Memory\Memory\bin\Debug\Memory.exe
+C:\Users\enea\source\repos\3n3a\gibz-m404\Memory\Memory\bin\Debug\Memory.pdb
+C:\Users\enea\source\repos\3n3a\gibz-m404\Memory\Memory\obj\Debug\Memory.csproj.AssemblyReference.cache
+C:\Users\enea\source\repos\3n3a\gibz-m404\Memory\Memory\obj\Debug\Memory.csproj.SuggestedBindingRedirects.cache
+C:\Users\enea\source\repos\3n3a\gibz-m404\Memory\Memory\obj\Debug\MainWindow.g.cs
+C:\Users\enea\source\repos\3n3a\gibz-m404\Memory\Memory\obj\Debug\App.g.cs
+C:\Users\enea\source\repos\3n3a\gibz-m404\Memory\Memory\obj\Debug\Memory_MarkupCompile.cache
+C:\Users\enea\source\repos\3n3a\gibz-m404\Memory\Memory\obj\Debug\Memory_MarkupCompile.lref
+C:\Users\enea\source\repos\3n3a\gibz-m404\Memory\Memory\obj\Debug\MainWindow.baml
+C:\Users\enea\source\repos\3n3a\gibz-m404\Memory\Memory\obj\Debug\Memory.g.resources
+C:\Users\enea\source\repos\3n3a\gibz-m404\Memory\Memory\obj\Debug\Memory.Properties.Resources.resources
+C:\Users\enea\source\repos\3n3a\gibz-m404\Memory\Memory\obj\Debug\Memory.csproj.GenerateResource.cache
+C:\Users\enea\source\repos\3n3a\gibz-m404\Memory\Memory\obj\Debug\Memory.csproj.CoreCompileInputs.cache
+C:\Users\enea\source\repos\3n3a\gibz-m404\Memory\Memory\obj\Debug\Memory.exe
+C:\Users\enea\source\repos\3n3a\gibz-m404\Memory\Memory\obj\Debug\Memory.pdb
